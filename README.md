@@ -1,7 +1,7 @@
 # Sales Analysis Dashboard – Ferns N Petals (FNP)
 
-Interactive dashboard analyzing Ferns N Petals (FNP) sales using Excel tools (Power Query, Power Pivot, PivotTables, and DAX).  
-This project provides actionable insights into sales trends, product performance, city-wise orders, and delivery efficiency through **dashboard snapshots and PDF exports**.
+Interactive dashboard analysing Ferns N Petals (FNP) sales using Excel tools (Power Query, Power Pivot, PivotTables, and DAX).  
+This project provides actionable insights into sales trends, product performance, city-wise orders, delivery efficiency, and occasion-based revenue, using **dashboard snapshots and PDF exports**.
 
 ---
 
@@ -9,13 +9,14 @@ This project provides actionable insights into sales trends, product performance
 
 Ferns N Petals (FNP) wanted to understand its sales data to make informed business decisions. The main objectives were:
 
-- Identify **total revenue** and **monthly/hourly sales trends**  
-- Determine **top-selling products** and **top-performing product categories**  
-- Analyze **city-wise order distribution**  
-- Monitor **average delivery times** for better customer satisfaction  
-- Provide actionable insights to optimize **marketing, inventory, and operations**
+- Analyse **total revenue and monthly sales trends**  
+- Identify **top-performing products and categories**  
+- Study **city-wise order distribution**  
+- Monitor **average delivery times** to improve customer satisfaction  
+- Understand **occasion-based sales patterns**  
+- Provide actionable insights to optimise **marketing, inventory, and operations**
 
-This project uses dashboard visualizations and KPIs to answer these questions without sharing the original confidential dataset.
+This project uses dashboard visualisations and KPIs to answer these business questions without sharing the original confidential dataset.
 
 ---
 
@@ -30,29 +31,62 @@ This project uses dashboard visualizations and KPIs to answer these questions wi
 
 ## ⚡ Solutions & Insights from the Dashboard
 
-Based on the dashboard snapshots, the following solutions and insights were derived:
+Based on the dashboard snapshots, the following **exact solutions** were derived:
 
-1. **Revenue & Sales Trends:**  
-   - Monthly sales trends highlight peak seasons (e.g., Valentine’s Day, Diwali).  
-   - Hourly sales patterns help optimize operational planning for order fulfillment.  
+### **1. Total Revenue**
+- **$3,520,984** total revenue.
 
-2. **Top Products & Categories:**  
-   - Top products contributing most to revenue are identified.  
-   - Helps focus inventory management and marketing on high-performing products.  
+### **2. Average Order & Delivery Time**
+- **Average delivery time:** 5.53 days.  
+- Customers wait ~5.5 days on average for deliveries.
 
-3. **City-Wise Sales Distribution:**  
-   - Cities with highest orders are highlighted to target regional marketing.  
-   - Supports expansion and resource allocation decisions.  
+### **3. Monthly Sales Performance (2023)**
+| Month | Revenue |
+|-------|---------|
+| Aug   | 586,176 |
+| Sep   | 674,634 *(peak)* |
+| Oct   | 408,194 |
+| Nov   | 313,783 *(lowest)* |
+| Dec   | 574,682 |
+| Jan   | 631,585 |
+| Feb   | 331,930 |
 
-4. **Delivery Time Monitoring:**  
-   - Average delivery times are calculated per city and product type.  
-   - Enables identification of operational inefficiencies and improvement areas.  
+### **4. Top 5 Products by Revenue**
+1. Deserunt Box  
+2. Dolores Gift  
+3. Harum Pack  
+4. Magnam Set  
+5. Quia Gift  
 
-5. **Customer Insights & KPIs:**  
-   - Dashboards summarize order counts, revenue, top cities, and product performance.  
-   - Provides quick, actionable insights for decision-makers without manual calculation.  
+> **Deserunt Box** and **Dolores Gift** are the largest revenue contributors.
 
-> Overall, the dashboard provides a **data-driven solution** to answer all key business questions outlined in the problem statement, enabling FNP to optimize sales, operations, and marketing strategies effectively.
+### **5. Customer Spending**
+- **Average customer spend:** $3,521 per order.
+
+### **6. Top 10 Cities by Number of Orders**
+- Highest order volumes concentrated in a few major cities, scaling up to **~200,000 orders** for the top city.  
+- Exact city names visible in the dashboard snapshot.
+
+### **7. Revenue Comparison by Occasion**
+- Highest revenue: **Birthday, Diwali, Valentine’s Day**  
+- Medium revenue: **Raksha Bandhan, Anniversary**  
+- Lowest revenue: **Holi**
+
+### **8. Product Popularity by Occasion**
+| Category | Contribution | Key Occasions |
+|----------|-------------|---------------|
+| Colors | 29% | Holi, Diwali |
+| Soft Toys | 21% | Valentine’s Day, Raksha Bandhan |
+| Sweets | 21% | Valentine’s Day, Raksha Bandhan |
+| Cakes | 9% | Birthdays, Anniversaries |
+| Plants & Mugs | 6% each | Steady across occasions |
+
+### **9. Key Takeaways**
+- **Revenue is strong ($3.5M+)**, with peaks in **Sep/Jan** and lowest in **Nov**.  
+- **Top products (Deserunt Box & Dolores Gift)** drive a major portion of revenue.  
+- **Average customer spend is high ($3.5K)**, suggesting premium product sales.  
+- **Festivals and occasions** heavily influence sales patterns.  
+- **Delivery times (5.53 days)** may be optimised for better customer satisfaction.  
 
 ---
 
@@ -60,7 +94,7 @@ Based on the dashboard snapshots, the following solutions and insights were deri
 
 - **Problem_Statement.pdf** — Project brief and business questions  
 - **Dashboard_Snapshot.pdf** — Exported snapshot of the interactive dashboard  
-- **images/dashboard.png.jpg** — Preview image of the dashboard  
+- **dashboard.png** — Preview image of the dashboard  
 
 > ⚠️ Original datasets are confidential and not included.
 
@@ -68,17 +102,8 @@ Based on the dashboard snapshots, the following solutions and insights were deri
 
 ## 📖 How to View
 
-1. Open **Dashboard_Snapshot.pdf** or **images/dashboard.png.jpg** to see the dashboard layout and visualizations.  
-2. All insights summarized in this README are derived from these snapshots.
-
----
-
-## 📈 Key Takeaways
-
-- Peak revenue occurs during festival or special occasions.  
-- Top products and top cities contribute most to sales.  
-- Delivery time monitoring identifies areas for operational improvement.  
-- Dashboard enables faster decision-making without manual analysis.  
+1. Open **Dashboard_Snapshot.pdf** or **dashboard.png** to see the dashboard layout and visualizations.  
+2. All insights summarised in this README are derived from these snapshots.
 
 ---
 
