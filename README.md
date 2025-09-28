@@ -22,7 +22,6 @@ The original datasets (products, customers, orders) are confidential and not inc
 
 ## How to view
 1. Open `Dashboard_Snapshot.pdf` or download the dashboard file (if included).  
-2. If you open the Excel dashboard, enable content if prompted — sample data may be smaller than the original.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/tanishkakashyap
