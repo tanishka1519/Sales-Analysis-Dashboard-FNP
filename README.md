@@ -19,13 +19,13 @@ Key views: Revenue by Occasion, Category, Product, Month, City, Hour; KPIs (Tota
 - `sample_data/` *(optional)* — small fake CSVs demonstrating schema (no confidential data included)
 
 ## 🔐 Data confidentiality
-The original datasets (products, customers, orders) are confidential and not included. Sample datasets are provided only to demonstrate structure.
+The original datasets (products, customers, orders) are confidential and not included. 
 
 ## How to view
 1. Open `Dashboard_Snapshot.pdf` or download the dashboard file (if included).  
 2. If you open the Excel dashboard, enable content if prompted — sample data may be smaller than the original.
 
 ## Contact
-- LinkedIn: linkedin.com/in/your-linkedin  
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/tanishkakashyap
+- Email: tanishkakashyap15@gmail.com
 
