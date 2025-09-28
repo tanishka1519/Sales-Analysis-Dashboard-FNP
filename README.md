@@ -16,7 +16,6 @@ Key views: Revenue by Occasion, Category, Product, Month, City, Hour; KPIs (Tota
 - `Problem_Statement.pdf` — project brief and business questions  
 - `Dashboard_Snapshot.pdf` — dashboard screenshot/export  
 - `images/dashboard.png` — preview image (used above)  
-- `sample_data/` *(optional)* — small fake CSVs demonstrating schema (no confidential data included)
 
 ## 🔐 Data confidentiality
 The original datasets (products, customers, orders) are confidential and not included. 
