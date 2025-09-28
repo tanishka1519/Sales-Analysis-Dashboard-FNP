@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Project Overview
-Ferns N Petals (FNP) needed a tool to analyze sales trends, top products, city-wise orders, monthly/hourly patterns, and average delivery time.  
+Ferns N Petals (FNP) needed a tool to analyse sales trends, top products, city-wise orders, monthly/hourly patterns, and average delivery time.  
 This project delivers **interactive insights** through an Excel dashboard and summarised KPIs.
 
 ---
@@ -27,14 +27,6 @@ This project delivers **interactive insights** through an Excel dashboard and su
 
 ---
 
-## 🖼️ Dashboard Preview
-You can view the dashboard snapshot below or check `Dashboard_Snapshot.pdf`:
-
-![Dashboard Preview](images/dashboard.png.jpg)  
-*Interactive dashboard highlighting revenue trends, top products, and KPIs.*
-
----
-
 ## 📂 Files in This Repo
 - `Problem_Statement.pdf` — project brief & business questions  
 - `Dashboard_Snapshot.pdf` — snapshot/export of the dashboard  
@@ -49,7 +41,6 @@ Original datasets (orders, customers, products) are confidential and not include
 
 ## 📖 How to View
 1. Open `Dashboard_Snapshot.pdf` to see the dashboard visual.  
-2. If you have access to the Excel file, enable content to explore KPIs and slicers.
 
 ---
 
