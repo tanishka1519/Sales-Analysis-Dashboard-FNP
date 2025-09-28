@@ -40,7 +40,7 @@ Original datasets (orders, customers, products) are confidential and not include
 ---
 
 ## 📖 How to View
-1. Open `Dashboard_Snapshot.pdf` to see the dashboard visual.  
+1. Open `dashboard.png` to see the dashboard visual.  
 
 ---
 
